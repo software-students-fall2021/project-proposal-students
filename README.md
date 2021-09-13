@@ -1,7 +1,8 @@
 # sushi.me
 
 ## Collaborators
-**Kaan Karakas
+**Matthew Apuya**
+**Kaan Karakas**
 
 ### Tagline
 An exclusive, tailored sushi experience
