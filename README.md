@@ -1,4 +1,4 @@
-# sushi.me
+# Sushi.me
 
 ## Collaborators
 **Matthew Apuya**
@@ -8,7 +8,7 @@
 An exclusive, tailored sushi experience
 
 ### What and why?
-If you are an sushi enthusiast you have definetly hated when you went to a highly rated restaurant and realize that the only reason why it was highly rated was for its other foods or the atmosphere. If went to that place only for sushi you are dissapointed. A real sushi enthusiast can never know a place is good for its sushi until they try it because nearly every place has something else on their menu as well. We are changing this by tailor making an exclusive app for finding the best spots for its SUSHI nothin else.
+If you are an sushi enthusiast you have definetly hated when you went to a highly rated restaurant and realize that the only reason why it was highly rated was for its other foods or the atmosphere. If you went to that place only for its sushi you are dissapointed. A real sushi enthusiast can never know a place is good for its sushi until they try it because nearly every place has something else on their menu that effects the ratings. We are changing this by tailor making an exclusive app for finding the best spots for its SUSHI nothin else.
 
 ### For whom?
 Sushi lovers and afficiandos, such as ourselves. They dont need to be tech-savvy.
